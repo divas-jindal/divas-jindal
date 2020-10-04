@@ -12,7 +12,7 @@ I'm dedicated to perfecting my craft by learning, remaining humble, and continuo
 [![Linkedin](https://img.shields.io/badge/-divasjindal-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/divasjindal/)](https://www.linkedin.com/in/divasjindal/)
 [![Twitter](https://img.shields.io/badge/-divasjindal-55acee?style=flat-square&logo=twitter&logoColor=white&link=ttps://twitter.com/divas_jindal/)](https://twitter.com/divas_jindal)
 [![Instagram](https://img.shields.io/badge/-divasjindal-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/divas_jindal/)](https://www.instagram.com/divas_jindal/)
-[![Gmail Badge](https://img.shields.io/badge/-divasjindal-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:divasjindal@gmail.com)](mailto:divasjindal@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-divasjindal@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:divasjindal@gmail.com)](mailto:divasjindal@gmail.com)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -31,4 +31,3 @@ I'm dedicated to perfecting my craft by learning, remaining humble, and continuo
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
