@@ -2,11 +2,15 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Divas Jindal, currently a BTech final year student at NIT Warangal majors in Computer Science and Engineering. 
+I’m currently working as a Technology Analyst with Deutsche Bank. I'm passionate about the work I do but even more so devoted to cultivating a positive and efficient team environment.
 
-I'm dedicated to perfecting my craft by learning, remaining humble, and continuously making strides to learn all that I can about development. I believe that my understanding of problem-solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a developer. 
+I enjoy being challenged and engaging with projects that require me to work outside of my comfort zone. Continuing to learn new languages and development techniques are important to me.
 
+Here are just a few of the technical skills I bring to the table -
 
+Languages & Libraries: C++, Java, Python, JavaScript, Node.js, React , Spring Boot, SQL, HTML5, CSS, Bootstrap, Docker
+
+Cloud Experience: AWS, GCP
 
 ## Get in touch
 [![Linkedin](https://img.shields.io/badge/-divasjindal-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/divasjindal/)](https://www.linkedin.com/in/divasjindal/)
