@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I’m currently working as a Technology Analyst with Deutsche Bank. I'm passionate about the work I do but even more so devoted to cultivating a positive and efficient team environment.
+I’m currently working as a Associate with Deutsche Bank. I'm passionate about the work I do but even more so devoted to cultivating a positive and efficient team environment.
 
 I enjoy being challenged and engaging with projects that require me to work outside of my comfort zone. Continuing to learn new languages and development techniques are important to me.
 
