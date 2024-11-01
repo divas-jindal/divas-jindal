@@ -8,9 +8,9 @@ I enjoy being challenged and engaging with projects that require me to work outs
 
 Here are just a few of the technical skills I bring to the table -
 
-Languages & Libraries: C++, Java, Python, JavaScript, Node.js, React , Spring Boot, SQL, HTML5, CSS, Bootstrap, Docker
+Languages & Libraries: C++, Java, Spring Boot, Python
 
-Cloud Experience: AWS, GCP
+Cloud Experience: Red Hat Openshift, AWS, GCP
 
 ## Get in touch
 [![Linkedin](https://img.shields.io/badge/-divasjindal-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/divasjindal/)](https://www.linkedin.com/in/divasjindal/)
